@@ -26,8 +26,10 @@ Hey, I'm **lucas** — based in South Korea, obsessed with coffee, and endlessly
 | [agentic-engineering-patterns-simon-willison](https://github.com/lucas-flatwhite/agentic-engineering-patterns-simon-willison) | Simon Willison's agentic engineering patterns guide |
 | [obsidian-cli-guide-ko](https://github.com/lucas-flatwhite/obsidian-cli-guide-ko) | Obsidian CLI Guide |
 | [markdown-editor](https://github.com/lucas-flatwhite/markdown-editor) | Markdown editor |
+| [md2paper](https://github.com/lucas-flatwhite/md2paper) | Turn your Markdown into beautifully typeset paper |
 | [openai-codex-best-practices-ko](https://github.com/lucas-flatwhite/openai-codex-best-practices-ko) | OpenAI Codex best practices (Korean) |
 | [lucasflatwhite-com](https://github.com/lucas-flatwhite/lucasflatwhite-com) | Personal website |
+| [onesec](https://github.com/lucas-flatwhite/onesec) | Automatically picks the most interesting 1-second moments from videos |
 | [obsidian-translations](https://github.com/lucas-flatwhite/obsidian-translations) | Obsidian multilingual translations (fork) |
 | [things-app-mcp](https://github.com/lucas-flatwhite/things-app-mcp) | Things app MCP integration |
 | [interview-coach-skill](https://github.com/lucas-flatwhite/interview-coach-skill) | Interview coach skill |
